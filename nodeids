@@ -1,0 +1,6 @@
+[
+  "tests/test_faq_chatbot.py::test_clean_text_removes_punctuation_and_stopwords",
+  "tests/test_faq_chatbot.py::test_predict_empty_query_returns_error_message",
+  "tests/test_faq_chatbot.py::test_predict_returns_fallback_for_unknown_query",
+  "tests/test_faq_chatbot.py::test_predict_returns_high_confidence_answer"
+]
